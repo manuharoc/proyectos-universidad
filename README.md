@@ -1,2 +1,2 @@
-# Procesamiento-de-Imagenes-y-Video
-Proyectos de procesamiento de imágenes en MatLab en formato Live Script (.mlx)
+# Proyectos de un alumno de Ingeniería Informática en la Universidad de Málaga
+Este repositorio contendrá otros repositorios referenciando asignaturas y sus proyectos
